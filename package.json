@@ -1,0 +1,20 @@
+{
+  "name": "simple-book-api-part-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "node ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.4.0",
+    "supertest": "^7.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
